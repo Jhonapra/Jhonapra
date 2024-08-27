@@ -9,11 +9,8 @@
 
 ## My skills:
 - :coffee: JAVA (Spring and SpringBoot)
-
 - SQL(Mysql :dolphin: and Postgres :elephant:)
-
 - :cyclone: CSS
-  
 - :large_orange_diamond: HTML
 
 
