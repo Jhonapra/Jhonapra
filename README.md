@@ -6,9 +6,9 @@
 - :computer: Backend developer
 
 ## My skills:
--:coffee: JAVA (Spring and SpringBoot)
+- :coffee: JAVA (Spring and SpringBoot)
 
--Sql(Mysql:dolphin: and Postgres:elephant:)
+- Sql(Mysql :dolphin: and Postgres :elephant:)
 
 - :cyclone: CSS
   
