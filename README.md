@@ -4,11 +4,13 @@
 
 ## About me:
 - :computer: Backend developer
+- 🌱 I’m currently expanding my knowledge in MySQL and OCI
+- :snowflake: I have a solid set of soft skills that complement my technical knowledge.
 
 ## My skills:
 - :coffee: JAVA (Spring and SpringBoot)
 
-- Sql(Mysql :dolphin: and Postgres :elephant:)
+- SQL(Mysql :dolphin: and Postgres :elephant:)
 
 - :cyclone: CSS
   
