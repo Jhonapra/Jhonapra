@@ -2,6 +2,16 @@
   <h1 aling="center">Hello, I'm Jhonapra :smile_cat:</h1>
 </div>
 
+## About me:
+-:computer: Backend developer
+
+## My skills:
+-JAVA :coffee:(Spring and SpringBoot)
+-Sql(Mysql:dolphin: and Postgres:elephant:)
+-CSS:cyclone:
+-HTML:large_orange_diamond:
+
+
 <!--
 **Jhonapra/Jhonapra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
