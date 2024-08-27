@@ -8,8 +8,8 @@
 - :snowflake: I have a solid set of soft skills that complement my technical knowledge.
 
 ## My skills:
-- :coffee: JAVA (Spring and SpringBoot)
 - SQL(Mysql :dolphin: and Postgres :elephant:)
+- :coffee: JAVA (Spring and SpringBoot)
 - :cyclone: CSS
 - :large_orange_diamond: HTML
 
