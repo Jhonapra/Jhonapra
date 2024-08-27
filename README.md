@@ -5,7 +5,7 @@
 ## About me:
 - :computer: Backend developer
 - 🌱 I’m currently expanding my knowledge in MySQL and OCI
-- :snowflake: I have a solid set of soft skills that complement my technical knowledge.
+- :snowflake: I have a solid set of soft skills that complement my technical knowledge
 
 ## My skills:
 - SQL(Mysql :dolphin: and Postgres :elephant:)
