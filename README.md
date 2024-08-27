@@ -3,13 +3,16 @@
 </div>
 
 ## About me:
--:computer: Backend developer
+- :computer: Backend developer
 
 ## My skills:
--JAVA :coffee:(Spring and SpringBoot)
+-:coffee: JAVA (Spring and SpringBoot)
+
 -Sql(Mysql:dolphin: and Postgres:elephant:)
--CSS:cyclone:
--HTML:large_orange_diamond:
+
+- :cyclone: CSS
+  
+- :large_orange_diamond: HTML
 
 
 <!--
