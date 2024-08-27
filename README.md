@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 aling="center">Hello, I'm Jhonapra :smirk_cat:</h1>
+  <h1 aling="center">Hello, I'm Jhonapra :smile_cat:</h1>
 </div>
 
 <!--
